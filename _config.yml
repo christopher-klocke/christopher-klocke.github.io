@@ -6,9 +6,9 @@ logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Christopher Klocke next
+  name: Christopher Klocke
   avatar: bio-photo.jpg
-  bio: "This is a sample Jekyll academic website."
+  bio: "This is Christopher Klocke's academic website."
   email: klockec@ohsu.edu
   # Do not include the @ symbol in your Twitter username
   twitter: cdklocke
