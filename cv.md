@@ -3,17 +3,17 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+PhD Student
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+2018 - Present
+__Oregon Health & Science University__
+PhD Student in Bioinformatics & Computational Biomedicine
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2012 - 2016`
+__American University__
+Bachelor of Science in Biology
 
 ## Awards
 
@@ -54,9 +54,8 @@ __Current Job Title__, Current Employer
 
 - Task
 - Task
-
-`1994-1996`
-__Current Job Title__, Current Employer 
+2017 - 2018
+__Scientist I__, Thermo Fisher Scientific
 
 - Task
 - Task
@@ -65,6 +64,6 @@ __Current Job Title__, Current Employer
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: November 2018 -->
 
 
