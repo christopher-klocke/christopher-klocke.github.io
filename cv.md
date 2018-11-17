@@ -17,8 +17,8 @@ Bachelor of Science in Biology
 
 ## Awards
 
-`2012`
-Name of Award, Organization 
+`2015
+__Dean's Undergraduate Award__, American University 
 
 ## Publications
 
