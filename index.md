@@ -3,10 +3,11 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I am a academic, hear me roar. I am an Assistant Professor at Oregon Health & Science University.
+I am a PhD student at Oregon Health & Science University.
 
 ## Current Interests and Projects:
 
-- Website Design
+- Genetics & Genomics
+- Computational Analysis of Biological Datasets
 - [GitHub Pages](http://laderast.github.io)
 - Academia
